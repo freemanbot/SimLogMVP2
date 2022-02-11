@@ -1,7 +1,6 @@
 import React from "react";
 
 import Container from "react-bootstrap/Container";
-import terrain from "./terrain.png"; // Tell webpack this JS file uses this image
 
 import "./App.css";
 
@@ -21,7 +20,6 @@ const App = () => (
       <h4 className="title">Terrain</h4>
       Projection des unités et les différentes lignes sur la carte de la zone de
       manœuvre
-      <img src={terrain} alt="Logo" />
       <h4 className="title">Cadre Espace/Temps</h4>
       Projection de l’évolution des différentes unités selon le cadre E/T et
       simulation de l’évolution du temps
