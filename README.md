@@ -1,3 +1,3 @@
-# Basic Example
+# SIMLOG
 
-A simple [create-react-app](CRA-README.md) setup, showcasing one of the lastest React-Bootstrap components!
+Un simulateur de la manœuvre logistique!
